@@ -4,7 +4,7 @@ import org.testng.annotations.AfterGroups;
 import org.testng.annotations.BeforeGroups;
 import org.testng.annotations.Test;
 
-public class GroupOnMethod {
+public class GroupsOnMethod {
     @Test(groups = "server")
     public void test1(){
         System.out.println("这是服务端组的测试方法1111");
