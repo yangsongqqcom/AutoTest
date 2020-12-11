@@ -1,5 +1,5 @@
 package com.course.testng;
-
+//超时测试
 import org.testng.annotations.Test;
 
 public class TimeOutTest {
